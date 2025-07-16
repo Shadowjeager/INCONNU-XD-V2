@@ -7,7 +7,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "",
+  "repository": "https://github.com/Shadowjeager/INCONNU-XD-V2/blob/main/app.json",
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
